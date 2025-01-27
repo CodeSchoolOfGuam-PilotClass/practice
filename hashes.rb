@@ -75,7 +75,7 @@ library = [
 
 
 # hashes
-# ideal when we need to associate values with keys
+# Ideal for descriptive data where you need to look up values by name (like fields in a form).
 # ex. students information (name, age, grades)
 # person = {
 #   name: "Alice",
@@ -88,15 +88,13 @@ library = [
 
 
 # arrays
-# some sort of ordered list
+# Ideal for sequential or ordered data (like steps in a process).
 # a list of all the students
 
 # numbers = [1, 2, 3, 4, 5]
 # numbers[0]
 # numbers[1]
 # etc.
-
-
 
 
 
